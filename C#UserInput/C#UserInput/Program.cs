@@ -11,6 +11,7 @@ int age = Convert.ToInt32(Console.ReadLine());
 //             My own attempt
 // Console.WriteLine("What is your age?"); 
 // String age = Console.ReadLine();
+// int yourAge = Convert.ToInt32(age);
 
 
 Console.WriteLine("Hello " + name);
